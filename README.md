@@ -1,8 +1,11 @@
-# React + Vite
+Requirements:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    Node.js (v14+)
+    React (v18+)
+    npm (v6+)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Setup Instructions:
+ 1. Clone or download the repository folder {Healthcare} Zip.
+ 2. Navigate to the project folder in terminal using cd command eg: cd Healthcare.
+ 3. Command: npm install
+ 4. Use Command:{ npm run dev } OR { npm start }.
