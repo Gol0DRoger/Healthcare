@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+html{
+  background-color: black;
+  font-family: "Fira Code";
+}
+.body{
+  background-image: url("assets\pexels-francesco-ungaro-998641.jpg");
+  background-position: center;
+  background-attachment: scroll;
+  background-size:contain;
+  text-align: center;
+  margin-top: 50px;
+  background-color: black;
+  align-content: center;
+}
+
+#Heading{
+  color:  #eeff00;
+}
+
+li{
+  list-style-type: none;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 30px;
+  margin-right: 35px;
+  border-radius: 8px;
+  box-shadow: 2px 2px rgb(255, 255, 255);
+}
+li:hover {
+  color:white;
+  background: linear-gradient(to bottom, #000000, rgba(255, 255, 255, 0.7));
+}
+
+h3 {
+  color: #eeff00;
+}
+p{
+  color: #ffffff;
+}
+.ADD{
+padding:20px;
+padding-bottom: 25px;
+}
+button{
+  padding: 5px;
+  margin:5px;
+  border:solid yellow 2px;
+  border-radius: 2px;
+}
+button:hover{
+  background-color: #eeff00;
+  cursor:pointer
+}
